@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-# ${1:Project Name}
+# My personal configs for use DracOS Linux
 TODO: Write a project description
 ## Installation
 TODO: Describe the installation process
