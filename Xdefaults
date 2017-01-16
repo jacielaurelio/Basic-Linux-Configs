@@ -1,0 +1,29 @@
+# transparency - true or false (default)
+URxvt*transparent:true
+ 
+# scrollbar - true (default) or false
+URxvt*scrollBar:true
+ 
+# font color (default is black)
+URxvt*foreground:Green
+ 
+URxvt*geometry:125x25
+ 
+URxvt*borderLess:false
+URxvt*borderColor:#000030
+URxvt*saveLines:4095
+URxvt*scrollstyle:plain
+URxvt*letterSpace: -1
+
+# urxvt scrolling options and cursor style:
+ 
+URxvt*saveLines: 12000
+URxvt*cursorBlink: true
+URxvt*cursorUnderline: true
+
+XTerm*background:#000000
+xterm*Foreground:#FFFFFF
+XTerm*saveLines:1000
+
+URxvt*font: xft:Terminal:size=8
+
