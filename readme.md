@@ -1,5 +1,5 @@
 <snippet>
-  <content><![CDATA[
+  <content>
 # My personal configs for use DracOS Linux
 TODO: Write a project description
 ## Installation
