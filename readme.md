@@ -2,7 +2,7 @@
   <content><![CDATA[
 # ${1:Project Name}
 TODO: Write a project description
-## My personal configs
+## Installation
 TODO: Describe the installation process
 ## Usage
 TODO: Write usage instructions
