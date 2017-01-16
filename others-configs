@@ -33,9 +33,11 @@ EOF
 # Create update-grub
 vi /usr/sbin/update-grub
 
+! Add this lines
 #!/bin/sh
 set -e
 exec grub-mkconfig -o /boot/grub/grub.cfg "$@"
 
+! Execute this comands
 sudo chown root:root /usr/sbin/update-grub
 sudo chmod 755 /usr/sbin/update-grub
